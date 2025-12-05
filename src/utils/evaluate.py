@@ -10,3 +10,4 @@ def evaluate_model(model, features, labels):
         acc = accuracy_score(labels, preds)
         f1_w = f1_score(labels, preds, average='weighted')
         return {'accuracy': acc, 'f1_weighted': f1_w, 'preds': preds, 'logits': outputs.detach(), 'labels': labels}
+ 
