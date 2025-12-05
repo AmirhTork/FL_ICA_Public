@@ -85,7 +85,7 @@ The demo performs the following tasks:
    - No proprietary logic or research innovation is exposed
 
 4. **Adversarial Scenario Simulation**
-   - Toy "model replacement" attack demonstrates how the pipeline supports adversarial analysis
+   - Model replacement attack demonstrates how the pipeline supports adversarial analysis
 
 5. **Metrics Tracking and Visualization**
    - Accuracy, loss, divergence, and other indicators are recorded
@@ -120,7 +120,7 @@ This script will:
 - Generate a synthetic dataset
 - Create N federated clients
 - Execute a few benign FL rounds
-- Optionally simulate one adversarial round
+- Optionally simulate few adversarial rounds
 - Output evaluation logs and basic plots
 
 > **Note:** All results are synthetic and intended solely for demonstration purposes.
