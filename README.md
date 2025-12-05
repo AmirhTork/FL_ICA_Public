@@ -119,9 +119,9 @@ All plots are synthetic and for demonstration only.
 
 ⚙️ Installation
 
-git clone https://github.com/AmirhTork/FL_ICA_public.git
-cd FL_ICA_public
-pip install -r requirements.txt
+    git clone https://github.com/AmirhTork/FL_ICA_public.git
+    cd FL_ICA_public
+    pip install -r requirements.txt
 
 
 -----------------------------------
@@ -129,7 +129,7 @@ pip install -r requirements.txt
 
 ▶️ Running the Demo
 
-python src/run_demo.py
+    python src/run_demo.py
 
 This will:
 
