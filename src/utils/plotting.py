@@ -19,4 +19,4 @@ def plot_metrics(history, title='Metrics over Rounds', show=True, save_path=None
     if show:
         plt.show()
     else:
-        plt.close()
+        plt.close() 
