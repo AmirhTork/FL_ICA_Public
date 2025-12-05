@@ -119,7 +119,7 @@ All plots are synthetic and for demonstration only.
 
 ⚙️ Installation
 
-git clone https://github.com/yourusername/FL_ICA_public.git
+git clone https://github.com/AmirhTork/FL_ICA_public.git
 cd FL_ICA_public
 pip install -r requirements.txt
 
