@@ -1,5 +1,5 @@
 class ICA:
-    """
+    """ 
     Demo version of the Impact Calculated Aggregator.
     The real aggregation logic used in the paper is intentionally omitted.
     This placeholder only demonstrates the structure of the pipeline.
