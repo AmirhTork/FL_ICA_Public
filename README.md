@@ -40,30 +40,30 @@ FL-ICA-Public/
 ├── requirements.txt
 │
 └── src/
-├── run_demo.py # Entry point for the demo
-│
-├── aggregator/
-│ └── ica.py # Placeholder ICA module
-│
-├── attacks/
-│ └── model_replacement.py # Minimal demo of a model replacement attack
-│
-├── federated/
-│ ├── safe_federated_learning.py # FL rounds without attacks
-│ └── attacked_federated_learning.py # FL rounds under adversarial conditions
-│
-├── models/
-│ └── simple_model.py # Lightweight MLP model for demo
-│
-├── training/
-│ └── local_training.py # Local client training loop
-│
-└── utils/
-├── dataset_utils.py # Synthetic dataset generator
-├── evaluate.py # Evaluation utilities
-├── metrics_recorder.py # Metrics storage during FL rounds
-├── plotting.py # Lightweight visualization
-└── split_data.py # Client data partitioning
+   ├── run_demo.py # Entry point for the demo
+   │
+   ├── aggregator/
+   │ └── ica.py # Placeholder ICA module
+   │
+   ├── attacks/
+   │ └── model_replacement.py # Minimal demo of a model replacement attack
+   │
+   ├── federated/
+   │ ├── safe_federated_learning.py # FL rounds without attacks
+   │ └── attacked_federated_learning.py # FL rounds under adversarial conditions
+   │
+   ├── models/
+   │ └── simple_model.py # Lightweight MLP model for demo
+   │
+   ├── training/
+   │ └── local_training.py # Local client training loop
+   │
+   └── utils/
+      ├── dataset_utils.py # Synthetic dataset generator
+      ├── evaluate.py # Evaluation utilities
+      ├── metrics_recorder.py # Metrics storage during FL rounds
+      ├── plotting.py # Lightweight visualization
+      └── split_data.py # Client data partitioning
 ```
 ---
 
