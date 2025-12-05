@@ -3,7 +3,7 @@ from federated.safe_federated_learning import safe_federated_learning
 from federated.attacked_federated_learning import attacked_federated_learning
 from utils.plotting import plot_metrics
 import numpy as np
-
+ 
 # ---------- config ----------
 NUM_CLIENTS = 4
 NUM_ROUNDS = 9
