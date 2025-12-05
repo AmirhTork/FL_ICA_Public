@@ -11,3 +11,4 @@ def split_data(X, y, n_clients):
         datasets.append(NumpyDataset(X[s:e], y[s:e]))
 
     return datasets
+ 
