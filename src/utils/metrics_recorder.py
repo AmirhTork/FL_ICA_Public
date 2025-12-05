@@ -45,3 +45,4 @@ class MetricsRecorder:
 
     def get_history(self):
         return self.metrics_history
+ 
