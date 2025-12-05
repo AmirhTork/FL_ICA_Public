@@ -1,5 +1,5 @@
 import torch.nn as nn
-
+ 
 class SimpleModel(nn.Module):
     """
     Small MLP used for demos.
