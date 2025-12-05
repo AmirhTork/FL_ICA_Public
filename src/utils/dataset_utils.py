@@ -1,6 +1,6 @@
 import numpy as np
 from torch.utils.data import Dataset
-
+ 
 class NumpyDataset(Dataset):
     def __init__(self, X: np.ndarray, y: np.ndarray):
         self.X = X.astype('float32')
