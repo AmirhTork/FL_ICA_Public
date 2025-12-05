@@ -1,7 +1,7 @@
 # FL-ICA-Public
 **Federated Learning with Impact-Calculated Aggregation (ICA) — Public Demonstration (PyTorch)**
 
----
+--- 
 
 ## Important Notice
 This repository contains a **simplified prototype** of the defense architecture developed in our research.
